@@ -1,0 +1,138 @@
+-------------------------------------------------------------------------------------------------------------------
+Quantidade de itens no array: 1000
+-------------------------------------------------------------------------------------------------------------------
+(Array Ordenado)
+Start Time: 1717365788547189
+End Time: 1717365788547226
+Elapsed Time: 37 microssegundos
+
+(Array Inversamente Ordenado)
+Start Time: 1717365788547324
+End Time: 1717365788547372
+Elapsed Time: 48 microssegundos
+
+(Array Aleatório)
+Start Time: 1717365788547391
+End Time: 1717365788547471
+Elapsed Time: 80 microssegundos
+
+(Array Parcialmente Ordenado)
+Start Time: 1717365788547504
+End Time: 1717365788547580
+Elapsed Time: 76 microssegundos
+
+-------------------------------------------------------------------------------------------------------------------
+Quantidade de itens no array: 10000
+-------------------------------------------------------------------------------------------------------------------
+(Array Ordenado)
+Start Time: 1717365788548374
+End Time: 1717365788548897
+Elapsed Time: 523 microssegundos
+
+(Array Inversamente Ordenado)
+Start Time: 1717365788548949
+End Time: 1717365788549630
+Elapsed Time: 681 microssegundos
+
+(Array Aleatório)
+Start Time: 1717365788549768
+End Time: 1717365788550994
+Elapsed Time: 1226 microssegundos
+
+(Array Parcialmente Ordenado)
+Start Time: 1717365788551091
+End Time: 1717365788552298
+Elapsed Time: 1207 microssegundos
+
+-------------------------------------------------------------------------------------------------------------------
+Quantidade de itens no array: 50000
+-------------------------------------------------------------------------------------------------------------------
+(Array Ordenado)
+Start Time: 1717365788559253
+End Time: 1717365788562576
+Elapsed Time: 3323 microssegundos
+
+(Array Inversamente Ordenado)
+Start Time: 1717365788562749
+End Time: 1717365788566788
+Elapsed Time: 4039 microssegundos
+
+(Array Aleatório)
+Start Time: 1717365788567351
+End Time: 1717365788574772
+Elapsed Time: 7421 microssegundos
+
+(Array Parcialmente Ordenado)
+Start Time: 1717365788575138
+End Time: 1717365788582263
+Elapsed Time: 7125 microssegundos
+
+-------------------------------------------------------------------------------------------------------------------
+Quantidade de itens no array: 100000
+-------------------------------------------------------------------------------------------------------------------
+(Array Ordenado)
+Start Time: 1717365788619663
+End Time: 1717365788626957
+Elapsed Time: 7294 microssegundos
+
+(Array Inversamente Ordenado)
+Start Time: 1717365788627314
+End Time: 1717365788636420
+Elapsed Time: 9106 microssegundos
+
+(Array Aleatório)
+Start Time: 1717365788637651
+End Time: 1717365788654404
+Elapsed Time: 16753 microssegundos
+
+(Array Parcialmente Ordenado)
+Start Time: 1717365788655140
+End Time: 1717365788671336
+Elapsed Time: 16196 microssegundos
+
+-------------------------------------------------------------------------------------------------------------------
+Quantidade de itens no array: 500000
+-------------------------------------------------------------------------------------------------------------------
+(Array Ordenado)
+Start Time: 1717365788754075
+End Time: 1717365788798711
+Elapsed Time: 44636 microssegundos
+
+(Array Inversamente Ordenado)
+Start Time: 1717365788800188
+End Time: 1717365788859127
+Elapsed Time: 58939 microssegundos
+
+(Array Aleatório)
+Start Time: 1717365788864939
+End Time: 1717365788964277
+Elapsed Time: 99338 microssegundos
+
+(Array Parcialmente Ordenado)
+Start Time: 1717365788967872
+End Time: 1717365789064523
+Elapsed Time: 96651 microssegundos
+
+-------------------------------------------------------------------------------------------------------------------
+Quantidade de itens no array: 1000000
+-------------------------------------------------------------------------------------------------------------------
+(Array Ordenado)
+Start Time: 1717365789527293
+End Time: 1717365789613450
+Elapsed Time: 86157 microssegundos
+
+(Array Inversamente Ordenado)
+Start Time: 1717365789616090
+End Time: 1717365789719465
+Elapsed Time: 103375 microssegundos
+
+(Array Aleatório)
+Start Time: 1717365789730178
+End Time: 1717365789920185
+Elapsed Time: 190007 microssegundos
+
+(Array Parcialmente Ordenado)
+Start Time: 1717365789926500
+End Time: 1717365790117948
+Elapsed Time: 191448 microssegundos
+

@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build C Project",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-Wall",
+                "-Wextra",
+                "${workspaceFolder}/main.c", // Substitua pelo caminho correto para seu arquivo C
+                "-o",
+                "${workspaceFolder}/output/main", // Substitua pelo caminho de saída desejado e nome do arquivo
+                "-lm"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Compiler task"
+        }
+    ]
+}
